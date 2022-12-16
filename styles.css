@@ -1,0 +1,39 @@
+/**/
+
+body {
+    min-height: 100vh;
+}
+
+#main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 327px;
+    height: 1326px;
+}
+
+#sedans-section {
+    width: 327px;
+    height: 442px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: #E28625;
+}
+
+#suvs-section {
+    width: 327px;
+    height: 442px;
+    background-color: #006971;
+}
+
+#luxury-section {
+    width: 327px;
+    height: 442px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: #004140;
+}
