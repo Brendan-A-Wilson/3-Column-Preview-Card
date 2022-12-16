@@ -18,7 +18,7 @@ A project solution to the 3-Column-Preview-Card component challenge on Frontend 
 * Extract the file by right clicking on it and then click 'extract here'.
 * Open the folder and double click on 'index.html' to open the webpage.
 
-* Live Site URL: () into the address bar on the web browser.
+* Live Site URL: (https://brendan-a-wilson.github.io/3-Column-Preview-Card/) into the address bar on the web browser.
 
 ## My Process
 
