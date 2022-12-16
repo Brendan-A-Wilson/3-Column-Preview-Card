@@ -14,7 +14,7 @@ A project solution to the 3-Column-Preview-Card component challenge on Frontend 
 
 ### Executing program
 
-* On the Github page () Click on the 'code' button and then 'download ZIP' files.
+* On the Github page (https://github.com/Brendan-A-Wilson/3-Column-Preview-Card/tree/main) Click on the 'code' button and then 'download ZIP' files.
 * Extract the file by right clicking on it and then click 'extract here'.
 * Open the folder and double click on 'index.html' to open the webpage.
 
