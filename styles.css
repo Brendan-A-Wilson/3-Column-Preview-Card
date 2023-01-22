@@ -1,8 +1,10 @@
-/**/
+/*Body Styling*/
 
 body {
     min-height: 100vh;
 }
+
+/*Main Container Styling*/
 
 #main-container {
     display: flex;
@@ -16,6 +18,8 @@ body {
     height: 1326px;
 }
 
+/*Sedans Section Styling*/
+
 #sedans-section {
     width: 327px;
     height: 442px;
@@ -24,11 +28,19 @@ body {
     background-color: #E28625;
 }
 
+
+
+/*Suvs Section Styling*/
+
 #suvs-section {
     width: 327px;
     height: 442px;
     background-color: #006971;
 }
+
+
+
+/*Luxury Section Styling*/
 
 #luxury-section {
     width: 327px;
@@ -37,3 +49,6 @@ body {
     border-bottom-right-radius: 8px;
     background-color: #004140;
 }
+
+
+
