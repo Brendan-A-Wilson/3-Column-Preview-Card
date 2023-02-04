@@ -26,9 +26,9 @@ A project solution to the 3-Column-Preview-Card component challenge on Frontend 
 
 * Semantic HTML5 markup
 * CSS styling
-* Use of Media Queries for responsiveness
-* Buttons
-* Responsive Web Design
+* Mobile-first workflow
+* Use of Media Queries for responsive web design
+* Buttons and hover selector
 
 ## Version History
 

@@ -165,7 +165,7 @@ body {
         height: 500px;
     }
 
-/*Sedans Mobile Section*/
+/*Sedans Section*/
 
     #sedans-section {
         border-top-left-radius: 8px;
@@ -178,7 +178,15 @@ body {
         margin-bottom: 83px;
     }
 
-/*SUVs Mobile Section*/
+    .sedans-button:hover {
+        cursor: pointer;
+        background-color: #E28625;
+        color: #FFFFFF;
+        border-style: solid;
+        border-width: 2px;
+    }
+
+/*SUVs Section*/
 
     #suvs-section {
         height: 500px;
@@ -188,7 +196,15 @@ body {
         margin-bottom: 83px;
     }
 
-/*Luxury Mobile Section*/
+    .suvs-button:hover {
+        cursor: pointer;
+        background-color: #006971;
+        color: #FFFFFF;
+        border-style: solid;
+        border-width: 2px;
+    }
+
+/*Luxury Section*/
 
     #luxury-section {
         border-top-left-radius: 0px;
@@ -199,5 +215,13 @@ body {
 
     .luxury-p {
         margin-bottom: 83px;
+    }
+
+    .luxury-button:hover {
+        cursor: pointer;
+        background-color: #004140;
+        color: #FFFFFF;
+        border-style: solid;
+        border-width: 2px;
     }
 }
