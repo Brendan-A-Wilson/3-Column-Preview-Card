@@ -151,3 +151,53 @@ body {
     font-size: 15px;
     color: #004140;
 }
+
+/*Desktop Design Styling*/
+
+@media only screen and (min-width: 600px) {
+    #main-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 171px;
+        margin-bottom: 129px;
+        width: 920px;
+        height: 500px;
+    }
+
+/*Sedans Mobile Section*/
+
+    #sedans-section {
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border-top-right-radius: 0px;
+        height: 500px;
+    }
+
+    .sedans-p {
+        margin-bottom: 83px;
+    }
+
+/*SUVs Mobile Section*/
+
+    #suvs-section {
+        height: 500px;
+    }
+
+    .suvs-p {
+        margin-bottom: 83px;
+    }
+
+/*Luxury Mobile Section*/
+
+    #luxury-section {
+        border-top-left-radius: 0px;
+        border-top-right-radius: 8px;
+        border-bottom-left-radius: 0px;
+        height: 500px;
+    }
+
+    .luxury-p {
+        margin-bottom: 83px;
+    }
+}
